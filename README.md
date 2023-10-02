@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @battlebubblegames
+- 👀 I’m interested in Website Creation.
+- 🌱 I’m currently learning HTML, CSS, JS
+- 💞️ I’m looking to collaborate on Website projects
+- 📫 How to reach me: discord: xjen_za
